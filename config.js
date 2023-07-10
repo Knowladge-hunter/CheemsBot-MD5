@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -15,9 +15,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['919267936126'] //ur owner number
-global.ownername = "PEACEMAKER" //ur owner name
+global.ownername = "𝙿𝙴𝙰𝙲𝙴𝙼𝙰𝙺𝙴𝚁" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "GitHub: Knowladge-hunter" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
@@ -25,15 +25,15 @@ global.owner = ['91926793612'] //ur number
 global.ownernomer = "91926793612" //ur number
 global.ownertag = '91926793612' //ur tag number
 global.premium = ['91926793612'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "PEACEMAKER"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.botname = '𝚉𝙴𝚄𝚂🖤' //ur bot name
+global.ownername = "𝙿𝙴𝙰𝙲𝙴𝙼𝙰𝙺𝙴𝚁"
+global.linkz = "https://chat.whatsapp.com/IczydUIRmIoKxijo6RroBb" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/IczydUIRmIoKxijo6RroBb" //ur website to be displayed
 global.botscript = 'https://github.com/knowladge-hunter/CheemsBot-MD5' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.packname = "𝚉𝚎𝚞𝚜🖤" //ur sticker watermark packname
+global.author = "𝚉𝙴𝚄𝚂🖤" //ur sticker watermark author
+global.wm = "𝚉𝙴𝚄𝚂🖤 Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
